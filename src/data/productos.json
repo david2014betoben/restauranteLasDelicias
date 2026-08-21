@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hamburguesa Clásica",
+    "categoria": "comida",
+    "precio": 25.00,
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Coca Cola 500ml",
+    "categoria": "bebida",
+    "precio": 6.00,
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Torta tres leches",
+    "categoria": "postre",
+    "precio": 12.50,
+    "disponible": false
+  }
+]
